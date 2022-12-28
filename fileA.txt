@@ -1,1 +1,2 @@
-Alex has a cat and a fish.
+<<<<<<< HEAD
+Alex has a dog, cat and a fish.
